@@ -111,6 +111,17 @@
             this.label29 = new System.Windows.Forms.Label();
             this.maskedTextBox6 = new System.Windows.Forms.MaskedTextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column11 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column12 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column13 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column14 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.iTalk_Button_17 = new iTalk.iTalk_Button_1();
             this.iTalk_Button_18 = new iTalk.iTalk_Button_1();
@@ -136,37 +147,22 @@
             this.CodVeiculosAdeq = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Preco = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabPageOrcamento = new System.Windows.Forms.TabPage();
-            this.iTalk_ControlBox1 = new iTalk.iTalk_ControlBox();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column11 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column12 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column13 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column14 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.tabPageRelatorio = new System.Windows.Forms.TabPage();
-            this.tabControl2 = new System.Windows.Forms.TabControl();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
-            this.iTalk_Button_111 = new iTalk.iTalk_Button_1();
-            this.iTalk_Button_112 = new iTalk.iTalk_Button_1();
-            this.tabPage6 = new System.Windows.Forms.TabPage();
-            this.iTalk_Button_113 = new iTalk.iTalk_Button_1();
-            this.iTalk_Button_114 = new iTalk.iTalk_Button_1();
-            this.label30 = new System.Windows.Forms.Label();
-            this.maskedTextBox10 = new System.Windows.Forms.MaskedTextBox();
-            this.maskedTextBox11 = new System.Windows.Forms.MaskedTextBox();
-            this.label33 = new System.Windows.Forms.Label();
-            this.tabPage7 = new System.Windows.Forms.TabPage();
-            this.iTalk_Button_115 = new iTalk.iTalk_Button_1();
-            this.iTalk_Button_116 = new iTalk.iTalk_Button_1();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.label34 = new System.Windows.Forms.Label();
             this.tabControl3 = new System.Windows.Forms.TabControl();
             this.tabPage8 = new System.Windows.Forms.TabPage();
+            this.label42 = new System.Windows.Forms.Label();
+            this.maskedTextBox15 = new System.Windows.Forms.MaskedTextBox();
+            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.label41 = new System.Windows.Forms.Label();
+            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.label40 = new System.Windows.Forms.Label();
+            this.dataGridView4 = new System.Windows.Forms.DataGridView();
+            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.label39 = new System.Windows.Forms.Label();
             this.iTalk_Button_117 = new iTalk.iTalk_Button_1();
             this.iTalk_Button_118 = new iTalk.iTalk_Button_1();
             this.label18 = new System.Windows.Forms.Label();
@@ -195,20 +191,24 @@
             this.dataGridViewTextBoxColumn19 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn20 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn21 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.label39 = new System.Windows.Forms.Label();
-            this.dataGridView4 = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.label40 = new System.Windows.Forms.Label();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.label41 = new System.Windows.Forms.Label();
-            this.maskedTextBox15 = new System.Windows.Forms.MaskedTextBox();
-            this.label42 = new System.Windows.Forms.Label();
+            this.tabPageRelatorio = new System.Windows.Forms.TabPage();
+            this.tabControl2 = new System.Windows.Forms.TabControl();
+            this.tabPage5 = new System.Windows.Forms.TabPage();
+            this.iTalk_Button_111 = new iTalk.iTalk_Button_1();
+            this.iTalk_Button_112 = new iTalk.iTalk_Button_1();
+            this.tabPage6 = new System.Windows.Forms.TabPage();
+            this.iTalk_Button_113 = new iTalk.iTalk_Button_1();
+            this.iTalk_Button_114 = new iTalk.iTalk_Button_1();
+            this.label30 = new System.Windows.Forms.Label();
+            this.maskedTextBox10 = new System.Windows.Forms.MaskedTextBox();
+            this.maskedTextBox11 = new System.Windows.Forms.MaskedTextBox();
+            this.label33 = new System.Windows.Forms.Label();
+            this.tabPage7 = new System.Windows.Forms.TabPage();
+            this.iTalk_Button_115 = new iTalk.iTalk_Button_1();
+            this.iTalk_Button_116 = new iTalk.iTalk_Button_1();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.label34 = new System.Windows.Forms.Label();
+            this.iTalk_ControlBox1 = new iTalk.iTalk_ControlBox();
             this.iTalk_ThemeContainer1.SuspendLayout();
             this.TabPrincipal.SuspendLayout();
             this.tabPageCadrastro.SuspendLayout();
@@ -230,18 +230,18 @@
             this.tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
             this.tabPageOrcamento.SuspendLayout();
+            this.tabControl3.SuspendLayout();
+            this.tabPage8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
+            this.tabPage9.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView5)).BeginInit();
+            this.tabPage10.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).BeginInit();
             this.tabPageRelatorio.SuspendLayout();
             this.tabControl2.SuspendLayout();
             this.tabPage5.SuspendLayout();
             this.tabPage6.SuspendLayout();
             this.tabPage7.SuspendLayout();
-            this.tabControl3.SuspendLayout();
-            this.tabPage8.SuspendLayout();
-            this.tabPage9.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView5)).BeginInit();
-            this.tabPage10.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
             this.SuspendLayout();
             // 
             // iTalk_ThemeContainer1
@@ -1303,6 +1303,72 @@
             this.dataGridView1.Size = new System.Drawing.Size(1023, 472);
             this.dataGridView1.TabIndex = 0;
             // 
+            // Column4
+            // 
+            this.Column4.HeaderText = "CPF";
+            this.Column4.Name = "Column4";
+            this.Column4.Width = 89;
+            // 
+            // Column5
+            // 
+            this.Column5.HeaderText = "Nome";
+            this.Column5.Name = "Column5";
+            this.Column5.Width = 89;
+            // 
+            // Column6
+            // 
+            this.Column6.HeaderText = "Telefone";
+            this.Column6.Name = "Column6";
+            this.Column6.Width = 89;
+            // 
+            // Column7
+            // 
+            this.Column7.HeaderText = "Celular";
+            this.Column7.Name = "Column7";
+            this.Column7.Width = 89;
+            // 
+            // Column8
+            // 
+            this.Column8.HeaderText = "E-mail";
+            this.Column8.Name = "Column8";
+            this.Column8.Width = 89;
+            // 
+            // Column9
+            // 
+            this.Column9.HeaderText = "Endereço";
+            this.Column9.Name = "Column9";
+            this.Column9.Width = 90;
+            // 
+            // Column10
+            // 
+            this.Column10.HeaderText = "Bairro";
+            this.Column10.Name = "Column10";
+            this.Column10.Width = 89;
+            // 
+            // Column11
+            // 
+            this.Column11.HeaderText = "CEP";
+            this.Column11.Name = "Column11";
+            this.Column11.Width = 89;
+            // 
+            // Column12
+            // 
+            this.Column12.HeaderText = "Estado";
+            this.Column12.Name = "Column12";
+            this.Column12.Width = 89;
+            // 
+            // Column13
+            // 
+            this.Column13.HeaderText = "Numero";
+            this.Column13.Name = "Column13";
+            this.Column13.Width = 89;
+            // 
+            // Column14
+            // 
+            this.Column14.HeaderText = "Cidade";
+            this.Column14.Name = "Column14";
+            this.Column14.Width = 89;
+            // 
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.iTalk_Button_17);
@@ -1552,290 +1618,6 @@
             this.tabPageOrcamento.TabIndex = 2;
             this.tabPageOrcamento.Text = "Orçamento";
             // 
-            // iTalk_ControlBox1
-            // 
-            this.iTalk_ControlBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.iTalk_ControlBox1.BackColor = System.Drawing.Color.Transparent;
-            this.iTalk_ControlBox1.Location = new System.Drawing.Point(1085, -1);
-            this.iTalk_ControlBox1.Name = "iTalk_ControlBox1";
-            this.iTalk_ControlBox1.Size = new System.Drawing.Size(77, 19);
-            this.iTalk_ControlBox1.TabIndex = 0;
-            this.iTalk_ControlBox1.Text = "btControle";
-            this.iTalk_ControlBox1.Click += new System.EventHandler(this.iTalk_ControlBox1_Click);
-            // 
-            // Column4
-            // 
-            this.Column4.HeaderText = "CPF";
-            this.Column4.Name = "Column4";
-            this.Column4.Width = 89;
-            // 
-            // Column5
-            // 
-            this.Column5.HeaderText = "Nome";
-            this.Column5.Name = "Column5";
-            this.Column5.Width = 89;
-            // 
-            // Column6
-            // 
-            this.Column6.HeaderText = "Telefone";
-            this.Column6.Name = "Column6";
-            this.Column6.Width = 89;
-            // 
-            // Column7
-            // 
-            this.Column7.HeaderText = "Celular";
-            this.Column7.Name = "Column7";
-            this.Column7.Width = 89;
-            // 
-            // Column8
-            // 
-            this.Column8.HeaderText = "E-mail";
-            this.Column8.Name = "Column8";
-            this.Column8.Width = 89;
-            // 
-            // Column9
-            // 
-            this.Column9.HeaderText = "Endereço";
-            this.Column9.Name = "Column9";
-            this.Column9.Width = 90;
-            // 
-            // Column10
-            // 
-            this.Column10.HeaderText = "Bairro";
-            this.Column10.Name = "Column10";
-            this.Column10.Width = 89;
-            // 
-            // Column11
-            // 
-            this.Column11.HeaderText = "CEP";
-            this.Column11.Name = "Column11";
-            this.Column11.Width = 89;
-            // 
-            // Column12
-            // 
-            this.Column12.HeaderText = "Estado";
-            this.Column12.Name = "Column12";
-            this.Column12.Width = 89;
-            // 
-            // Column13
-            // 
-            this.Column13.HeaderText = "Numero";
-            this.Column13.Name = "Column13";
-            this.Column13.Width = 89;
-            // 
-            // Column14
-            // 
-            this.Column14.HeaderText = "Cidade";
-            this.Column14.Name = "Column14";
-            this.Column14.Width = 89;
-            // 
-            // tabPageRelatorio
-            // 
-            this.tabPageRelatorio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(246)))), ((int)(((byte)(246)))));
-            this.tabPageRelatorio.Controls.Add(this.tabControl2);
-            this.tabPageRelatorio.Location = new System.Drawing.Point(139, 4);
-            this.tabPageRelatorio.Name = "tabPageRelatorio";
-            this.tabPageRelatorio.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageRelatorio.Size = new System.Drawing.Size(1023, 638);
-            this.tabPageRelatorio.TabIndex = 3;
-            this.tabPageRelatorio.Text = "Relatório ";
-            // 
-            // tabControl2
-            // 
-            this.tabControl2.Controls.Add(this.tabPage5);
-            this.tabControl2.Controls.Add(this.tabPage6);
-            this.tabControl2.Controls.Add(this.tabPage7);
-            this.tabControl2.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tabControl2.Location = new System.Drawing.Point(-2, -2);
-            this.tabControl2.Name = "tabControl2";
-            this.tabControl2.SelectedIndex = 0;
-            this.tabControl2.Size = new System.Drawing.Size(1027, 642);
-            this.tabControl2.TabIndex = 1;
-            // 
-            // tabPage5
-            // 
-            this.tabPage5.Controls.Add(this.iTalk_Button_111);
-            this.tabPage5.Controls.Add(this.iTalk_Button_112);
-            this.tabPage5.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tabPage5.Location = new System.Drawing.Point(4, 33);
-            this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage5.Size = new System.Drawing.Size(1019, 605);
-            this.tabPage5.TabIndex = 0;
-            this.tabPage5.Text = "Relatório Cliente";
-            this.tabPage5.UseVisualStyleBackColor = true;
-            // 
-            // iTalk_Button_111
-            // 
-            this.iTalk_Button_111.BackColor = System.Drawing.Color.White;
-            this.iTalk_Button_111.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.iTalk_Button_111.Image = null;
-            this.iTalk_Button_111.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.iTalk_Button_111.Location = new System.Drawing.Point(636, 510);
-            this.iTalk_Button_111.Name = "iTalk_Button_111";
-            this.iTalk_Button_111.Size = new System.Drawing.Size(161, 66);
-            this.iTalk_Button_111.TabIndex = 30;
-            this.iTalk_Button_111.Text = "Limpar";
-            this.iTalk_Button_111.TextAlignment = System.Drawing.StringAlignment.Center;
-            // 
-            // iTalk_Button_112
-            // 
-            this.iTalk_Button_112.BackColor = System.Drawing.Color.Transparent;
-            this.iTalk_Button_112.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.iTalk_Button_112.Image = null;
-            this.iTalk_Button_112.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.iTalk_Button_112.Location = new System.Drawing.Point(844, 510);
-            this.iTalk_Button_112.Name = "iTalk_Button_112";
-            this.iTalk_Button_112.Size = new System.Drawing.Size(161, 66);
-            this.iTalk_Button_112.TabIndex = 29;
-            this.iTalk_Button_112.Text = "Pesquisar";
-            this.iTalk_Button_112.TextAlignment = System.Drawing.StringAlignment.Center;
-            // 
-            // tabPage6
-            // 
-            this.tabPage6.Controls.Add(this.iTalk_Button_113);
-            this.tabPage6.Controls.Add(this.iTalk_Button_114);
-            this.tabPage6.Controls.Add(this.label30);
-            this.tabPage6.Controls.Add(this.maskedTextBox10);
-            this.tabPage6.Controls.Add(this.maskedTextBox11);
-            this.tabPage6.Controls.Add(this.label33);
-            this.tabPage6.Location = new System.Drawing.Point(4, 33);
-            this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage6.Size = new System.Drawing.Size(1019, 605);
-            this.tabPage6.TabIndex = 1;
-            this.tabPage6.Text = "Relatório Veículo";
-            this.tabPage6.UseVisualStyleBackColor = true;
-            // 
-            // iTalk_Button_113
-            // 
-            this.iTalk_Button_113.BackColor = System.Drawing.Color.White;
-            this.iTalk_Button_113.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.iTalk_Button_113.Image = null;
-            this.iTalk_Button_113.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.iTalk_Button_113.Location = new System.Drawing.Point(642, 30);
-            this.iTalk_Button_113.Name = "iTalk_Button_113";
-            this.iTalk_Button_113.Size = new System.Drawing.Size(161, 66);
-            this.iTalk_Button_113.TabIndex = 28;
-            this.iTalk_Button_113.Text = "Limpar";
-            this.iTalk_Button_113.TextAlignment = System.Drawing.StringAlignment.Center;
-            // 
-            // iTalk_Button_114
-            // 
-            this.iTalk_Button_114.BackColor = System.Drawing.Color.Transparent;
-            this.iTalk_Button_114.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.iTalk_Button_114.Image = null;
-            this.iTalk_Button_114.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.iTalk_Button_114.Location = new System.Drawing.Point(850, 30);
-            this.iTalk_Button_114.Name = "iTalk_Button_114";
-            this.iTalk_Button_114.Size = new System.Drawing.Size(161, 66);
-            this.iTalk_Button_114.TabIndex = 27;
-            this.iTalk_Button_114.Text = "Pesquisar";
-            this.iTalk_Button_114.TextAlignment = System.Drawing.StringAlignment.Center;
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label30.ForeColor = System.Drawing.Color.Black;
-            this.label30.Location = new System.Drawing.Point(237, 44);
-            this.label30.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(128, 25);
-            this.label30.TabIndex = 16;
-            this.label30.Text = "CPF Cliente";
-            // 
-            // maskedTextBox10
-            // 
-            this.maskedTextBox10.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.maskedTextBox10.ForeColor = System.Drawing.Color.Black;
-            this.maskedTextBox10.Location = new System.Drawing.Point(372, 41);
-            this.maskedTextBox10.Mask = "000-000-000-00";
-            this.maskedTextBox10.Name = "maskedTextBox10";
-            this.maskedTextBox10.Size = new System.Drawing.Size(183, 32);
-            this.maskedTextBox10.TabIndex = 17;
-            // 
-            // maskedTextBox11
-            // 
-            this.maskedTextBox11.Location = new System.Drawing.Point(88, 43);
-            this.maskedTextBox11.Mask = "aaa-0000";
-            this.maskedTextBox11.Name = "maskedTextBox11";
-            this.maskedTextBox11.Size = new System.Drawing.Size(125, 31);
-            this.maskedTextBox11.TabIndex = 15;
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label33.ForeColor = System.Drawing.Color.Black;
-            this.label33.Location = new System.Drawing.Point(7, 44);
-            this.label33.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(64, 25);
-            this.label33.TabIndex = 14;
-            this.label33.Text = "Placa";
-            // 
-            // tabPage7
-            // 
-            this.tabPage7.Controls.Add(this.iTalk_Button_115);
-            this.tabPage7.Controls.Add(this.iTalk_Button_116);
-            this.tabPage7.Controls.Add(this.textBox5);
-            this.tabPage7.Controls.Add(this.label34);
-            this.tabPage7.Location = new System.Drawing.Point(4, 33);
-            this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage7.Size = new System.Drawing.Size(1019, 605);
-            this.tabPage7.TabIndex = 2;
-            this.tabPage7.Text = "Relatório Produto";
-            this.tabPage7.UseVisualStyleBackColor = true;
-            // 
-            // iTalk_Button_115
-            // 
-            this.iTalk_Button_115.BackColor = System.Drawing.Color.White;
-            this.iTalk_Button_115.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.iTalk_Button_115.Image = null;
-            this.iTalk_Button_115.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.iTalk_Button_115.Location = new System.Drawing.Point(640, 35);
-            this.iTalk_Button_115.Name = "iTalk_Button_115";
-            this.iTalk_Button_115.Size = new System.Drawing.Size(161, 66);
-            this.iTalk_Button_115.TabIndex = 26;
-            this.iTalk_Button_115.Text = "Limpar";
-            this.iTalk_Button_115.TextAlignment = System.Drawing.StringAlignment.Center;
-            // 
-            // iTalk_Button_116
-            // 
-            this.iTalk_Button_116.BackColor = System.Drawing.Color.Transparent;
-            this.iTalk_Button_116.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.iTalk_Button_116.Image = null;
-            this.iTalk_Button_116.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.iTalk_Button_116.Location = new System.Drawing.Point(848, 35);
-            this.iTalk_Button_116.Name = "iTalk_Button_116";
-            this.iTalk_Button_116.Size = new System.Drawing.Size(161, 66);
-            this.iTalk_Button_116.TabIndex = 25;
-            this.iTalk_Button_116.Text = "Pesquisar";
-            this.iTalk_Button_116.TextAlignment = System.Drawing.StringAlignment.Center;
-            // 
-            // textBox5
-            // 
-            this.textBox5.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox5.ForeColor = System.Drawing.Color.Black;
-            this.textBox5.Location = new System.Drawing.Point(264, 50);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(202, 32);
-            this.textBox5.TabIndex = 13;
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label34.ForeColor = System.Drawing.Color.Black;
-            this.label34.Location = new System.Drawing.Point(40, 53);
-            this.label34.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(215, 25);
-            this.label34.TabIndex = 12;
-            this.label34.Text = "Codigo Part Number";
-            // 
             // tabControl3
             // 
             this.tabControl3.Controls.Add(this.tabPage8);
@@ -1871,6 +1653,135 @@
             this.tabPage8.TabIndex = 0;
             this.tabPage8.Text = "Orçamento ";
             this.tabPage8.UseVisualStyleBackColor = true;
+            // 
+            // label42
+            // 
+            this.label42.AutoSize = true;
+            this.label42.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label42.ForeColor = System.Drawing.Color.Black;
+            this.label42.Location = new System.Drawing.Point(481, 27);
+            this.label42.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label42.Name = "label42";
+            this.label42.Size = new System.Drawing.Size(59, 25);
+            this.label42.TabIndex = 39;
+            this.label42.Text = "Data";
+            // 
+            // maskedTextBox15
+            // 
+            this.maskedTextBox15.Location = new System.Drawing.Point(547, 26);
+            this.maskedTextBox15.Mask = "00/00/000";
+            this.maskedTextBox15.Name = "maskedTextBox15";
+            this.maskedTextBox15.Size = new System.Drawing.Size(153, 31);
+            this.maskedTextBox15.TabIndex = 38;
+            // 
+            // textBox12
+            // 
+            this.textBox12.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox12.ForeColor = System.Drawing.Color.Black;
+            this.textBox12.Location = new System.Drawing.Point(668, 88);
+            this.textBox12.Name = "textBox12";
+            this.textBox12.Size = new System.Drawing.Size(244, 32);
+            this.textBox12.TabIndex = 37;
+            // 
+            // label41
+            // 
+            this.label41.AutoSize = true;
+            this.label41.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label41.ForeColor = System.Drawing.Color.Black;
+            this.label41.Location = new System.Drawing.Point(506, 91);
+            this.label41.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label41.Name = "label41";
+            this.label41.Size = new System.Drawing.Size(155, 25);
+            this.label41.TabIndex = 36;
+            this.label41.Text = "Nome Produto";
+            // 
+            // textBox11
+            // 
+            this.textBox11.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox11.ForeColor = System.Drawing.Color.Black;
+            this.textBox11.Location = new System.Drawing.Point(330, 545);
+            this.textBox11.Name = "textBox11";
+            this.textBox11.Size = new System.Drawing.Size(202, 32);
+            this.textBox11.TabIndex = 35;
+            // 
+            // label40
+            // 
+            this.label40.AutoSize = true;
+            this.label40.Font = new System.Drawing.Font("Unispace", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label40.ForeColor = System.Drawing.Color.Black;
+            this.label40.Location = new System.Drawing.Point(200, 543);
+            this.label40.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(100, 34);
+            this.label40.TabIndex = 34;
+            this.label40.Text = "Total";
+            // 
+            // dataGridView4
+            // 
+            this.dataGridView4.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView4.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.dataGridViewTextBoxColumn1,
+            this.dataGridViewTextBoxColumn2,
+            this.dataGridViewTextBoxColumn3,
+            this.dataGridViewTextBoxColumn5,
+            this.dataGridViewTextBoxColumn4});
+            this.dataGridView4.Location = new System.Drawing.Point(1, 135);
+            this.dataGridView4.Name = "dataGridView4";
+            this.dataGridView4.RowTemplate.Height = 24;
+            this.dataGridView4.Size = new System.Drawing.Size(793, 356);
+            this.dataGridView4.TabIndex = 33;
+            // 
+            // dataGridViewTextBoxColumn1
+            // 
+            this.dataGridViewTextBoxColumn1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
+            this.dataGridViewTextBoxColumn1.HeaderText = "Part Number";
+            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
+            this.dataGridViewTextBoxColumn1.Width = 171;
+            // 
+            // dataGridViewTextBoxColumn2
+            // 
+            this.dataGridViewTextBoxColumn2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.dataGridViewTextBoxColumn2.HeaderText = "Nome";
+            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
+            // 
+            // dataGridViewTextBoxColumn3
+            // 
+            this.dataGridViewTextBoxColumn3.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
+            this.dataGridViewTextBoxColumn3.HeaderText = "Quantidade";
+            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
+            this.dataGridViewTextBoxColumn3.Width = 159;
+            // 
+            // dataGridViewTextBoxColumn5
+            // 
+            this.dataGridViewTextBoxColumn5.HeaderText = "preço";
+            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
+            // 
+            // dataGridViewTextBoxColumn4
+            // 
+            this.dataGridViewTextBoxColumn4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.dataGridViewTextBoxColumn4.HeaderText = "Soma";
+            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
+            // 
+            // textBox9
+            // 
+            this.textBox9.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox9.ForeColor = System.Drawing.Color.Black;
+            this.textBox9.Location = new System.Drawing.Point(250, 84);
+            this.textBox9.Name = "textBox9";
+            this.textBox9.Size = new System.Drawing.Size(202, 32);
+            this.textBox9.TabIndex = 32;
+            // 
+            // label39
+            // 
+            this.label39.AutoSize = true;
+            this.label39.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label39.ForeColor = System.Drawing.Color.Black;
+            this.label39.Location = new System.Drawing.Point(7, 87);
+            this.label39.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(215, 25);
+            this.label39.TabIndex = 31;
+            this.label39.Text = "Codigo Part Number";
             // 
             // iTalk_Button_117
             // 
@@ -2158,134 +2069,223 @@
             this.dataGridViewTextBoxColumn21.HeaderText = "preço";
             this.dataGridViewTextBoxColumn21.Name = "dataGridViewTextBoxColumn21";
             // 
-            // textBox9
+            // tabPageRelatorio
             // 
-            this.textBox9.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox9.ForeColor = System.Drawing.Color.Black;
-            this.textBox9.Location = new System.Drawing.Point(250, 84);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(202, 32);
-            this.textBox9.TabIndex = 32;
+            this.tabPageRelatorio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(246)))), ((int)(((byte)(246)))));
+            this.tabPageRelatorio.Controls.Add(this.tabControl2);
+            this.tabPageRelatorio.Location = new System.Drawing.Point(139, 4);
+            this.tabPageRelatorio.Name = "tabPageRelatorio";
+            this.tabPageRelatorio.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPageRelatorio.Size = new System.Drawing.Size(1023, 638);
+            this.tabPageRelatorio.TabIndex = 3;
+            this.tabPageRelatorio.Text = "Relatório ";
             // 
-            // label39
+            // tabControl2
             // 
-            this.label39.AutoSize = true;
-            this.label39.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label39.ForeColor = System.Drawing.Color.Black;
-            this.label39.Location = new System.Drawing.Point(7, 87);
-            this.label39.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(215, 25);
-            this.label39.TabIndex = 31;
-            this.label39.Text = "Codigo Part Number";
+            this.tabControl2.Controls.Add(this.tabPage5);
+            this.tabControl2.Controls.Add(this.tabPage6);
+            this.tabControl2.Controls.Add(this.tabPage7);
+            this.tabControl2.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tabControl2.Location = new System.Drawing.Point(-2, -2);
+            this.tabControl2.Name = "tabControl2";
+            this.tabControl2.SelectedIndex = 0;
+            this.tabControl2.Size = new System.Drawing.Size(1027, 642);
+            this.tabControl2.TabIndex = 1;
             // 
-            // dataGridView4
+            // tabPage5
             // 
-            this.dataGridView4.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView4.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.dataGridViewTextBoxColumn1,
-            this.dataGridViewTextBoxColumn2,
-            this.dataGridViewTextBoxColumn3,
-            this.dataGridViewTextBoxColumn5,
-            this.dataGridViewTextBoxColumn4});
-            this.dataGridView4.Location = new System.Drawing.Point(1, 135);
-            this.dataGridView4.Name = "dataGridView4";
-            this.dataGridView4.RowTemplate.Height = 24;
-            this.dataGridView4.Size = new System.Drawing.Size(793, 356);
-            this.dataGridView4.TabIndex = 33;
+            this.tabPage5.Controls.Add(this.iTalk_Button_111);
+            this.tabPage5.Controls.Add(this.iTalk_Button_112);
+            this.tabPage5.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tabPage5.Location = new System.Drawing.Point(4, 33);
+            this.tabPage5.Name = "tabPage5";
+            this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage5.Size = new System.Drawing.Size(1019, 605);
+            this.tabPage5.TabIndex = 0;
+            this.tabPage5.Text = "Relatório Cliente";
+            this.tabPage5.UseVisualStyleBackColor = true;
             // 
-            // dataGridViewTextBoxColumn1
+            // iTalk_Button_111
             // 
-            this.dataGridViewTextBoxColumn1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            this.dataGridViewTextBoxColumn1.HeaderText = "Part Number";
-            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
-            this.dataGridViewTextBoxColumn1.Width = 171;
+            this.iTalk_Button_111.BackColor = System.Drawing.Color.White;
+            this.iTalk_Button_111.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.iTalk_Button_111.Image = null;
+            this.iTalk_Button_111.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.iTalk_Button_111.Location = new System.Drawing.Point(636, 510);
+            this.iTalk_Button_111.Name = "iTalk_Button_111";
+            this.iTalk_Button_111.Size = new System.Drawing.Size(161, 66);
+            this.iTalk_Button_111.TabIndex = 30;
+            this.iTalk_Button_111.Text = "Cancelar";
+            this.iTalk_Button_111.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
-            // dataGridViewTextBoxColumn2
+            // iTalk_Button_112
             // 
-            this.dataGridViewTextBoxColumn2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.dataGridViewTextBoxColumn2.HeaderText = "Nome";
-            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
+            this.iTalk_Button_112.BackColor = System.Drawing.Color.Transparent;
+            this.iTalk_Button_112.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.iTalk_Button_112.Image = null;
+            this.iTalk_Button_112.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.iTalk_Button_112.Location = new System.Drawing.Point(844, 510);
+            this.iTalk_Button_112.Name = "iTalk_Button_112";
+            this.iTalk_Button_112.Size = new System.Drawing.Size(161, 66);
+            this.iTalk_Button_112.TabIndex = 29;
+            this.iTalk_Button_112.Text = "Gerar";
+            this.iTalk_Button_112.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
-            // dataGridViewTextBoxColumn3
+            // tabPage6
             // 
-            this.dataGridViewTextBoxColumn3.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            this.dataGridViewTextBoxColumn3.HeaderText = "Quantidade";
-            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
-            this.dataGridViewTextBoxColumn3.Width = 159;
+            this.tabPage6.Controls.Add(this.iTalk_Button_113);
+            this.tabPage6.Controls.Add(this.iTalk_Button_114);
+            this.tabPage6.Controls.Add(this.label30);
+            this.tabPage6.Controls.Add(this.maskedTextBox10);
+            this.tabPage6.Controls.Add(this.maskedTextBox11);
+            this.tabPage6.Controls.Add(this.label33);
+            this.tabPage6.Location = new System.Drawing.Point(4, 33);
+            this.tabPage6.Name = "tabPage6";
+            this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage6.Size = new System.Drawing.Size(1019, 605);
+            this.tabPage6.TabIndex = 1;
+            this.tabPage6.Text = "Relatório Veículo";
+            this.tabPage6.UseVisualStyleBackColor = true;
             // 
-            // dataGridViewTextBoxColumn5
+            // iTalk_Button_113
             // 
-            this.dataGridViewTextBoxColumn5.HeaderText = "preço";
-            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
+            this.iTalk_Button_113.BackColor = System.Drawing.Color.White;
+            this.iTalk_Button_113.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.iTalk_Button_113.Image = null;
+            this.iTalk_Button_113.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.iTalk_Button_113.Location = new System.Drawing.Point(642, 30);
+            this.iTalk_Button_113.Name = "iTalk_Button_113";
+            this.iTalk_Button_113.Size = new System.Drawing.Size(161, 66);
+            this.iTalk_Button_113.TabIndex = 28;
+            this.iTalk_Button_113.Text = "Limpar";
+            this.iTalk_Button_113.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
-            // dataGridViewTextBoxColumn4
+            // iTalk_Button_114
             // 
-            this.dataGridViewTextBoxColumn4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.dataGridViewTextBoxColumn4.HeaderText = "Soma";
-            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
+            this.iTalk_Button_114.BackColor = System.Drawing.Color.Transparent;
+            this.iTalk_Button_114.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.iTalk_Button_114.Image = null;
+            this.iTalk_Button_114.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.iTalk_Button_114.Location = new System.Drawing.Point(850, 30);
+            this.iTalk_Button_114.Name = "iTalk_Button_114";
+            this.iTalk_Button_114.Size = new System.Drawing.Size(161, 66);
+            this.iTalk_Button_114.TabIndex = 27;
+            this.iTalk_Button_114.Text = "Pesquisar";
+            this.iTalk_Button_114.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
-            // label40
+            // label30
             // 
-            this.label40.AutoSize = true;
-            this.label40.Font = new System.Drawing.Font("Unispace", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label40.ForeColor = System.Drawing.Color.Black;
-            this.label40.Location = new System.Drawing.Point(200, 543);
-            this.label40.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(95, 33);
-            this.label40.TabIndex = 34;
-            this.label40.Text = "Total";
+            this.label30.AutoSize = true;
+            this.label30.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label30.ForeColor = System.Drawing.Color.Black;
+            this.label30.Location = new System.Drawing.Point(237, 44);
+            this.label30.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(128, 25);
+            this.label30.TabIndex = 16;
+            this.label30.Text = "CPF Cliente";
             // 
-            // textBox11
+            // maskedTextBox10
             // 
-            this.textBox11.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox11.ForeColor = System.Drawing.Color.Black;
-            this.textBox11.Location = new System.Drawing.Point(330, 545);
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(202, 32);
-            this.textBox11.TabIndex = 35;
+            this.maskedTextBox10.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.maskedTextBox10.ForeColor = System.Drawing.Color.Black;
+            this.maskedTextBox10.Location = new System.Drawing.Point(372, 41);
+            this.maskedTextBox10.Mask = "000-000-000-00";
+            this.maskedTextBox10.Name = "maskedTextBox10";
+            this.maskedTextBox10.Size = new System.Drawing.Size(183, 32);
+            this.maskedTextBox10.TabIndex = 17;
             // 
-            // textBox12
+            // maskedTextBox11
             // 
-            this.textBox12.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox12.ForeColor = System.Drawing.Color.Black;
-            this.textBox12.Location = new System.Drawing.Point(668, 88);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(244, 32);
-            this.textBox12.TabIndex = 37;
+            this.maskedTextBox11.Location = new System.Drawing.Point(88, 43);
+            this.maskedTextBox11.Mask = "aaa-0000";
+            this.maskedTextBox11.Name = "maskedTextBox11";
+            this.maskedTextBox11.Size = new System.Drawing.Size(125, 31);
+            this.maskedTextBox11.TabIndex = 15;
             // 
-            // label41
+            // label33
             // 
-            this.label41.AutoSize = true;
-            this.label41.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label41.ForeColor = System.Drawing.Color.Black;
-            this.label41.Location = new System.Drawing.Point(506, 91);
-            this.label41.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(155, 25);
-            this.label41.TabIndex = 36;
-            this.label41.Text = "Nome Produto";
+            this.label33.AutoSize = true;
+            this.label33.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label33.ForeColor = System.Drawing.Color.Black;
+            this.label33.Location = new System.Drawing.Point(7, 44);
+            this.label33.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(64, 25);
+            this.label33.TabIndex = 14;
+            this.label33.Text = "Placa";
             // 
-            // maskedTextBox15
+            // tabPage7
             // 
-            this.maskedTextBox15.Location = new System.Drawing.Point(547, 26);
-            this.maskedTextBox15.Mask = "00/00/000";
-            this.maskedTextBox15.Name = "maskedTextBox15";
-            this.maskedTextBox15.Size = new System.Drawing.Size(153, 31);
-            this.maskedTextBox15.TabIndex = 38;
+            this.tabPage7.Controls.Add(this.iTalk_Button_115);
+            this.tabPage7.Controls.Add(this.iTalk_Button_116);
+            this.tabPage7.Controls.Add(this.textBox5);
+            this.tabPage7.Controls.Add(this.label34);
+            this.tabPage7.Location = new System.Drawing.Point(4, 33);
+            this.tabPage7.Name = "tabPage7";
+            this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage7.Size = new System.Drawing.Size(1019, 605);
+            this.tabPage7.TabIndex = 2;
+            this.tabPage7.Text = "Relatório Produto";
+            this.tabPage7.UseVisualStyleBackColor = true;
             // 
-            // label42
+            // iTalk_Button_115
             // 
-            this.label42.AutoSize = true;
-            this.label42.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label42.ForeColor = System.Drawing.Color.Black;
-            this.label42.Location = new System.Drawing.Point(481, 27);
-            this.label42.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(59, 25);
-            this.label42.TabIndex = 39;
-            this.label42.Text = "Data";
+            this.iTalk_Button_115.BackColor = System.Drawing.Color.White;
+            this.iTalk_Button_115.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.iTalk_Button_115.Image = null;
+            this.iTalk_Button_115.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.iTalk_Button_115.Location = new System.Drawing.Point(640, 35);
+            this.iTalk_Button_115.Name = "iTalk_Button_115";
+            this.iTalk_Button_115.Size = new System.Drawing.Size(161, 66);
+            this.iTalk_Button_115.TabIndex = 26;
+            this.iTalk_Button_115.Text = "Limpar";
+            this.iTalk_Button_115.TextAlignment = System.Drawing.StringAlignment.Center;
+            // 
+            // iTalk_Button_116
+            // 
+            this.iTalk_Button_116.BackColor = System.Drawing.Color.Transparent;
+            this.iTalk_Button_116.Font = new System.Drawing.Font("Unispace", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.iTalk_Button_116.Image = null;
+            this.iTalk_Button_116.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.iTalk_Button_116.Location = new System.Drawing.Point(848, 35);
+            this.iTalk_Button_116.Name = "iTalk_Button_116";
+            this.iTalk_Button_116.Size = new System.Drawing.Size(161, 66);
+            this.iTalk_Button_116.TabIndex = 25;
+            this.iTalk_Button_116.Text = "Pesquisar";
+            this.iTalk_Button_116.TextAlignment = System.Drawing.StringAlignment.Center;
+            // 
+            // textBox5
+            // 
+            this.textBox5.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox5.ForeColor = System.Drawing.Color.Black;
+            this.textBox5.Location = new System.Drawing.Point(264, 50);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(202, 32);
+            this.textBox5.TabIndex = 13;
+            // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label34.ForeColor = System.Drawing.Color.Black;
+            this.label34.Location = new System.Drawing.Point(40, 53);
+            this.label34.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(215, 25);
+            this.label34.TabIndex = 12;
+            this.label34.Text = "Codigo Part Number";
+            // 
+            // iTalk_ControlBox1
+            // 
+            this.iTalk_ControlBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.iTalk_ControlBox1.BackColor = System.Drawing.Color.Transparent;
+            this.iTalk_ControlBox1.Location = new System.Drawing.Point(1085, -1);
+            this.iTalk_ControlBox1.Name = "iTalk_ControlBox1";
+            this.iTalk_ControlBox1.Size = new System.Drawing.Size(77, 19);
+            this.iTalk_ControlBox1.TabIndex = 0;
+            this.iTalk_ControlBox1.Text = "btControle";
+            this.iTalk_ControlBox1.Click += new System.EventHandler(this.iTalk_ControlBox1_Click);
             // 
             // Form1
             // 
@@ -2328,6 +2328,16 @@
             this.tabPage3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
             this.tabPageOrcamento.ResumeLayout(false);
+            this.tabControl3.ResumeLayout(false);
+            this.tabPage8.ResumeLayout(false);
+            this.tabPage8.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).EndInit();
+            this.tabPage9.ResumeLayout(false);
+            this.tabPage9.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView5)).EndInit();
+            this.tabPage10.ResumeLayout(false);
+            this.tabPage10.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).EndInit();
             this.tabPageRelatorio.ResumeLayout(false);
             this.tabControl2.ResumeLayout(false);
             this.tabPage5.ResumeLayout(false);
@@ -2335,16 +2345,6 @@
             this.tabPage6.PerformLayout();
             this.tabPage7.ResumeLayout(false);
             this.tabPage7.PerformLayout();
-            this.tabControl3.ResumeLayout(false);
-            this.tabPage8.ResumeLayout(false);
-            this.tabPage8.PerformLayout();
-            this.tabPage9.ResumeLayout(false);
-            this.tabPage9.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView5)).EndInit();
-            this.tabPage10.ResumeLayout(false);
-            this.tabPage10.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).EndInit();
             this.ResumeLayout(false);
 
         }
